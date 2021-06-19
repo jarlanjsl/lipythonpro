@@ -3,6 +3,8 @@ Modulo para aprendizado do curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
+[![Build Status](https://travis-ci.com/jarlanjsl/libpythonpro.svg?branch=main)](https://travis-ci.com/jarlanjsl/libpythonpro)
+
 Suportado versão 3 de python
 
 Para instalar:
