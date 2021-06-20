@@ -1,9 +1,10 @@
 language: python
-
-os: windows
+os: linux
+dist: xenial
+sudo: true
 
 python:
-  - 3.9
+  - 3.9.2
 
 install:
   - pip install -q -r requirements-dev.txt
