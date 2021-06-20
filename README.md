@@ -20,7 +20,7 @@ pip install -r requirements-dev.txt
 Para conferir a qualidade do código:
 
 ```console
-falke8
+flake8
 ```
 
 Tópicos a serem abordados:
