@@ -17,6 +17,6 @@ toml==0.10.2
 
 # Covarege
 coverage==5.5
-pytest==cov-2.12.1
+pytestcov==2.12.1
 
 -r requirements.txt
